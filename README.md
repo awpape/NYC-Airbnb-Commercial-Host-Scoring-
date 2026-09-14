@@ -5,7 +5,7 @@ A behavioral scoring model built to identify de facto commercial hotel
 operators in NYC's Airbnb market using listing behavior alone, without 
 requiring access to internal platform data or confirmed licensing records.
 Developed as part of the BANA 5160 Capstone at Cornell University (Team 19).
-Presented at Cornell Tech, New York — August 2026.
+Presented at Cornell Tech, New York August 2026.
 
 ## Business Problem
 New York City's Local Law 18 restricts short-term rentals to hosts 
